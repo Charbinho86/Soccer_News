@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">soccernews</string>
+    <string name="title_news">News</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="mb_openlink">Open Link</string>
+    <string name="error_network">Network error.</string>
+    <string name="crash_test">Test Crash</string>
+</resources>
